@@ -1,4 +1,4 @@
-var container = document.querySelector('.container');
+var container = document.querySelector('.section');
 
 // 監聽滑鼠移入事件
 container.addEventListener('mouseenter', function() {
